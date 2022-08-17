@@ -1,3 +1,6 @@
+-- Qualitative Analysis
+-- Evaluate field value against some criteria
+
 -- Create sample data ----------------------------------------------------------------------------------------------------------------
 SELECT * FROM (
   VALUES
