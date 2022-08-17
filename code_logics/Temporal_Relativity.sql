@@ -1,3 +1,5 @@
+-- Temporal Relativity
+-- Purpose: Evaluate the date of two events for some temporal relationship, ie the amount of time between both events
 
 -- Num pts with an HbA1C at least 3 years before diabetes  --------------------------------------------------------------------------------------------------------
 WITH testcases AS (
